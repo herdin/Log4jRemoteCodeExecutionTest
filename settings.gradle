@@ -1,0 +1,5 @@
+rootProject.name = 'Log4jRemoteCodeExecutionTest'
+include 'SimpleRmiServer'
+include 'SimpleRmiClient'
+include 'SimpleLog4jEchoServer'
+

@@ -1,0 +1,7 @@
+server:
+  port: 8080
+logging:
+  level:
+    root: debug
+log4j2:
+  formatMsgNoLookups: true
