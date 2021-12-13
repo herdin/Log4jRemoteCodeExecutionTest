@@ -3,5 +3,3 @@ server:
 logging:
   level:
     root: debug
-log4j2:
-  formatMsgNoLookups: true
